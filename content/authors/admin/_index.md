@@ -21,6 +21,7 @@ interests:
 - Solid Phase Oligonucleotide (DNA) Synthesis
 - Excitonic Coupling
 - Programmable Self Assembly
+- DNA Encoded Libraries for Materials and Physical Chemistry
 
 # Education to show in About widget
 education:

@@ -25,6 +25,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - courses: Postdoctoral Scholar- Biological Engineering
+	institution: MIT
+	year: 2020 - present
   - course: PhD in Physics
     institution: University of Cambridge - Cavendish Laboratory
     year: 2020
@@ -67,12 +70,11 @@ email: ""
 highlight_name: true
 ---
 
-Jeffrey Gorman is a postdoctoral scholar in the BatheBioNano lab at MIT. His research intrests include the synthesis of organic semiconductors and their conjugation to DNA using solid phase oligonucleotide synthesis. Leverage DNA nanotechnology he works on DNA origami, where large DNA structures are programmed to assemble into objects hundreds of nanometers long.
+Jeffrey Gorman is a postdoctoral scholar in the BatheBioNano lab at MIT. His research intrests stem from the synthesis of organic semiconductors and challenge of conjugatiing them to DNA, by using solid phase oligonucleotide synthesis. Leverage DNA nanotechnology he works with DNA origami, a material enabling a large biologically-derived DNA strand, that can be folded into 2-3D structures by programmed hybridization with short, artifical DNA complements. Here he assembles DNA into objects hundreds of nanometers long, and by attach semiconductors to DNA he assembles these photoactive cargo too.
 
-Jeffrey Gorman completed his PhD in the Optoelectronics Group at Cambridge under the supervision of Sir Prof. Richard Friend, where he worked on the synthesis and ultrafast photophysics of singlet fission and charge-transfer oligomers.
+Jeffrey Gorman completed his PhD in the Optoelectronics Group at Cambridge under the supervision of Prof. Sir Richard Friend, where he develop the synthetic methodology to overcome the mutual insolubility of large, aromatic semiconductors and DNA using solid phase chemsitry. This work allowed the generation of semiconductor-DNA chimeras, facilitating the study of  ultrafast photophysics for singlet fission and charge-transfer in precisly defined oligomers.
 
 He completed his undergraduate and masters in Chemsitry and Imperial College London, under the Lawrence Burrow Trust fellowship, and awarded the Dean's list for top 5 highest graded students in his final year. His Master thesis and year in industry (Merck KGaA) focused on device fabrication and polymer chemistry for organic solar cells.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

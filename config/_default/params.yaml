@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: Mr robot
 day_night: true
-font: ''
-font_size: L
+font: 'minimal'
+font_size: M
 
 # SEO
 
@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: 'https://twitter.com/jeffrey_gorman'
 
 # Contact (edit or remove options as required)
 
@@ -126,7 +126,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'google'
   api_key: ''
   zoom: 15
 marketing:

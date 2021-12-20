@@ -27,8 +27,8 @@ interests:
 education:
   courses:
   - courses: Postdoctoral Scholar- Biological Engineering
-    institution: MIT
-    year: 2020 - present
+	institution: MIT
+	year: 2020 - present
   - course: PhD in Physics
     institution: University of Cambridge - Cavendish Laboratory
     year: 2020
@@ -50,9 +50,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=dAKlZOAAAAAJ&hl
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/jeffrey-e-gorman

@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After developing the synthetic methodology to conjugate molecular semiconductors onto DNA during his PhD, he has now pivoted to exploit these materials on DNA origami. Here the semiconductor-DNA chimeras he synthesizes are programmably assembled on a large DNA scaffold to template the assembly of semiconductors from the sub-nm to hundreds-of-nm lengthscales. By leveraging the exception self-assembly of DNA. Jeffrey aims to optimize and explore the development on intermolecular organic semiconductor coupling for photovoltaics, photochemsitry, and quantum information science. 
+Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After developing the synthetic methodology to conjugate molecular semiconductors onto DNA during his PhD, he has now pivoted to exploit these materials on DNA origami. Here the semiconductor-DNA chimeras he synthesizes are programmably assembled on a large DNA scaffold to template the assembly of semiconductors from the sub-nm to hundreds-of-nm lengthscales. By leveraging the exceptional self-assembly of DNA. Jeffrey aims to optimize and explore the development on intermolecular organic semiconductor coupling for photovoltaics, photochemistry, and quantum information science. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

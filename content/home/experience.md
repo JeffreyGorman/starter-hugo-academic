@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Materials Chemist
+    company: Merck KGaA
+  #  company_url: ''
+ #   company_logo: org-gc
+    location: Southampton, UK
+    date_start: '2014'
+    date_end: '2015'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Development of commercial organic solar cells for large-scale applications. 
+        * Rheology analysis.
+        * Device optimization.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Undergraduate Supervisor (Teaching Assistant)
+    company: University of Cambridge, Department of Chemistry
+    # company_url: ''
+    # company_logo: org-x
+    location: Cambridge, UK
+    date_start: '2018'
+    date_end: '20201'
+    description: Taught Part IA Chemistry Courses\: Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.
 
 design:
   columns: '2'

@@ -25,14 +25,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Postdoc in Biological Engineering (Bathe BioNanoLab)
+  - course: 'Postdoc in Biological Engineering (Bathe BioNanoLab)'
     institution: Massachusetts Institute of Technology
     year: present
   - course: PhD in Physics
-    institution: University of Cambridge (Cavendish Laboratory, Optoelectronics Group)
+    institution: 'University of Cambridge (Cavendish Laboratory\, Optoelectronics Group)'
     year: 2020
-  - course: MSci. Chemsitry with a Year in Industry
-    institution: Imperial College London (Merck KGaA)
+  - course: 'MSci. Chemsitry with a Year in Industry'
+    institution: 'Imperial College London (Merck KGaA)'
     year: 2016
 
 # Social/Academic Networking

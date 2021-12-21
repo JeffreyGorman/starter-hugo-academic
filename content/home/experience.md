@@ -27,8 +27,8 @@ experience:
   #  company_url: ''
  #   company_logo: org-gc
     location: Southampton, UK
-    date_start: '2014'
-    date_end: '2015'
+    date_start: '2014-07-01'
+    date_end: '2015-07-01'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     # company_url: ''
     # company_logo: org-x
     location: Cambridge, UK
-    date_start: '2018'
-    date_end: '2020'
+    date_start: '2018-10-01'
+    date_end: '2020-10-01'
     description: Taught Part IA Chemistry Courses. Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.
 
 design:

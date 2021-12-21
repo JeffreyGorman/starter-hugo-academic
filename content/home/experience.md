@@ -42,8 +42,8 @@ experience:
     # company_logo: org-x
     location: Cambridge, UK
     date_start: '2018'
-    date_end: '20201'
-    description: Taught Part IA Chemistry Courses\: Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.
+    date_end: '2020'
+    description: 'Taught Part IA Chemistry Courses: Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.'
 
 design:
   columns: '2'

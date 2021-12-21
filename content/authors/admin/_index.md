@@ -23,8 +23,8 @@ interests:
 - Solid phase unatural-oligonucleotide synthesis
 
 # Education to show in About widget
-education:
-courses:
+education: 
+courses: 
   - course: Postdoc in Biological Engineering (Bathe BioNanoLab)
     institution: Massachusetts Institute of Technology
     year: present

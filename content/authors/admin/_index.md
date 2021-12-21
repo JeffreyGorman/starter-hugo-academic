@@ -70,8 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After developing the synthetic methodology to conjugate molecular semiconductors onto DNA during his PhD, he has now pivoted to exploit these materials on DNA origami. Here the semiconductor-DNA chimeras he synthesizes are programmably assembled on a large DNA scaffold to template the assembly of semiconductors from the sub-nm to hundreds-of-nm lengthscales. By leveraging the exception self-assembly of DNA Jeffrey hopes to optimize and explore the development on intermolecular organic semiconductor coupling for photovoltaics, photochemsitry, and quantum information science. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

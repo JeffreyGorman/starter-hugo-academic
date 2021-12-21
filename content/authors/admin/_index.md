@@ -14,7 +14,7 @@ organizations:
   url: https://www.be.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused on the interface between DNA assembly and organic semiconductor photophysics.
+bio: Jeffrey Gorman's research focuses on the interface between DNA assembly and organic semiconductor photophysics.
 
 # Interests to show in About widget
 interests:
@@ -71,5 +71,7 @@ highlight_name: true
 ---
 
 Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After developing the synthetic methodology to conjugate molecular semiconductors onto DNA during his PhD, he has now pivoted to exploit these materials on DNA origami. Here the semiconductor-DNA chimeras he synthesizes are programmably assembled on a large DNA scaffold to template the assembly of semiconductors from the sub-nm to hundreds-of-nm lengthscales. By leveraging the exceptional self-assembly of DNA. Jeffrey aims to optimize and explore the development on intermolecular organic semiconductor coupling for photovoltaics, photochemistry, and quantum information science. 
+
+Jeffrey Gorman completed his PhD in the Optoelectronics Group at Cambridge under the supervision of Sir Prof. Richard Friend, where he worked on the synthesis and ultrafast photophysics of singlet fission and charge-transfer oligomers. He completed his undergraduate and masters in Chemsitry and Imperial College London, under the Lawrence Burrow Trust fellowship, and awarded the Dean’s list for top 5 ranked students in his final year. His Master thesis and year in industry (Merck KGaA) focused on device fabrication and polymer chemistry for organic solar cells.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

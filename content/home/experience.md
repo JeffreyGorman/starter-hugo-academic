@@ -36,14 +36,14 @@ experience:
         * Rheology analysis.
         * Device optimization.
         
-  - title: Undergraduate Supervisor (Teaching Assistant)
+  - title: Undergraduate Supervisor, Teaching Assistant
     company: University of Cambridge, Department of Chemistry
     # company_url: ''
     # company_logo: org-x
     location: Cambridge, UK
     date_start: '2018'
     date_end: '2020'
-    description: 'Taught Part IA Chemistry Courses: Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.'
+    description: Taught Part IA Chemistry Courses. Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.
 
 design:
   columns: '2'

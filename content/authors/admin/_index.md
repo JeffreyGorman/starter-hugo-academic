@@ -23,8 +23,7 @@ interests:
 - Solid phase unatural-oligonucleotide synthesis
 
 # Education to show in About widget
-education: 
-courses: 
+education:
   - course: Postdoc in Biological Engineering (Bathe BioNanoLab)
     institution: Massachusetts Institute of Technology
     year: present
@@ -54,7 +53,7 @@ social:
 #  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/jeffrey-e-gorman
+  link: https://www.linkedin.com/in/jeffrey-e-gorman/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: 'Best Talk: RSC Photophysics & Photochemsitry ECR Group'
+- title: Presentation Winner 
 - certificate_url: https://www.youtube.com/watch?v=iHS5JtgG5rQ&feature=youtu.be
   date_start: "2021-12-15"
-  description: "Early Career Presentations"
+  description: Photophysics & Photochemsitry ECR Group
   organization: RSC
   organization_url: https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/photophysics-and-photochemistry/
   title: Runner-up MRS 2019 Fall Research Poster

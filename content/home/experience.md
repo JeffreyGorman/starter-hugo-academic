@@ -43,7 +43,14 @@ experience:
     location: Cambridge, UK
     date_start: '2018-10-01'
     date_end: '2020-10-01'
-    description: Taught Part IA Chemistry Courses. Shape and Structures of Molecules, Reactions and Mechanisms in Organic Chemistry, Energetics and Equilibria, Kinetics of Chemical Reactions, and Chemistry of the Elements.
+    description: |2-
+        Responsibilities include taught courses:
+            
+        * Shape and Structures of Molecules
+        * Reactions and Mechanisms in Organic Chemistry
+        * Energetics and Equilibria
+        * Kinetics of Chemical ReactionsChemistry of the Elements
+        * Chemistry of the Elements
 
 design:
   columns: '2'

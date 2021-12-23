@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Deoxyribonucleic Acid Encoded and Size-Defined π-Stacking of Perylene Diimides'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -25,8 +25,8 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
-    author: ''
+    publication_type: '2'
+    author: 'Jeffrey Gorman, Sarah R. E. Orsborne, Akshay Sridhar, Raj Pandya, Peter Budden, Alexander Ohmann, Naitik A. Panjwani, Yun Liu, Jake L. Greenfield, Simon Dowland, Victor Gray, Seán T. J. Ryan, Sara De Ornellas, Afaf H. El-Sagheer, Tom Brown, Jonathan R. Nitschke, Jan Behrends, Ulrich F. Keyser, Akshay Rao, Rosana Collepardo-Guevara, Eugen Stulz, Richard H. Friend, and Florian Auras'
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 
 {{% callout note %}}

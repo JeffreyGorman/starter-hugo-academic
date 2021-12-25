@@ -26,14 +26,14 @@ abstract: "Natural photosystems use protein scaffolds to control intermolecular 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - Source Themes
-# featured: false
-# links:
+ tags:
+ - Source Themes
+featured: false
+ links:
 - name: " Read here"
    url: "https://pubs.acs.org/doi/full/10.1021/jacs.1c10241"
-# url_pdf: https://pubs.acs.org/doi/full/10.1021/jacs.1c10241
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

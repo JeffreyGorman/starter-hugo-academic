@@ -1,8 +1,8 @@
 ---
 title: "Deoxyribonucleic Acid Encoded and Size-Defined π-Stacking of Perylene Diimides"
 authors:     "Jeffrey Gorman, Sarah R. E. Orsborne, Akshay Sridhar, Raj Pandya, Peter Budden, Alexander Ohmann, Naitik A. Panjwani, Yun Liu, Jake L. Greenfield, Simon Dowland, Victor Gray, Seán T. J. Ryan, Sara De Ornellas, Afaf H. El-Sagheer, Tom Brown, Jonathan R. Nitschke, Jan Behrends, Ulrich F. Keyser, Akshay Rao, Rosana Collepardo-Guevara, Eugen Stulz, Richard H. Friend, and Florian Auras"
-# - admin
-# - Robert Ford
+ - admin
+ - Jeffrey Gorman
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -24,8 +24,7 @@ publication_short: ""
 abstract: "Natural photosystems use protein scaffolds to control intermolecular interactions that enable exciton flow, charge generation, and long-range charge separation. In contrast, there is limited structural control in current organic electronic devices such as OLEDs and solar cells. We report here the DNA-encoded assembly of π-conjugated perylene diimides (PDIs) with deterministic control over the number of electronically coupled molecules. The PDIs are integrated within DNA chains using phosphoramidite coupling chemistry, allowing selection of the DNA sequence to either side, and specification of intermolecular DNA hybridization. In this way, we have developed a “toolbox” for construction of any stacking sequence of these semiconducting molecules. We have discovered that we need to use a full hierarchy of interactions: DNA guides the semiconductors into specified close proximity, hydrophobic–hydrophilic differentiation drives aggregation of the semiconductor moieties, and local geometry and electrostatic interactions define intermolecular positioning. As a result, the PDIs pack to give substantial intermolecular π wave function overlap, leading to an evolution of singlet excited states from localized excitons in the PDI monomer to excimers with wave functions delocalized over all five PDIs in the pentamer. This is accompanied by a change in the dominant triplet forming mechanism from localized spin–orbit charge transfer mediated intersystem crossing for the monomer toward a delocalized excimer process for the pentamer. Our modular DNA-based assembly reveals real opportunities for the rapid development of bespoke semiconductor architectures with molecule-by-molecule precision."
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+ summary: ''
  tags:
  - Source Themes
 featured: false

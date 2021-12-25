@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic Acid Encoded and Size-Defined π-Stacking of Perylene Diimides"
-authors:     "Jeffrey Gorman, Sarah R. E. Orsborne, Akshay Sridhar, Raj Pandya, Peter Budden, Alexander Ohmann, Naitik A. Panjwani, Yun Liu, Jake L. Greenfield, Simon Dowland, Victor Gray, Seán T. J. Ryan, Sara De Ornellas, Afaf H. El-Sagheer, Tom Brown, Jonathan R. Nitschke, Jan Behrends, Ulrich F. Keyser, Akshay Rao, Rosana Collepardo-Guevara, Eugen Stulz, Richard H. Friend, and Florian Auras"
+authors: "Jeffrey Gorman, Sarah R. E. Orsborne, Akshay Sridhar, Raj Pandya, Peter Budden, Alexander Ohmann, Naitik A. Panjwani, Yun Liu, Jake L. Greenfield, Simon Dowland, Victor Gray, Seán T. J. Ryan, Sara De Ornellas, Afaf H. El-Sagheer, Tom Brown, Jonathan R. Nitschke, Jan Behrends, Ulrich F. Keyser, Akshay Rao, Rosana Collepardo-Guevara, Eugen Stulz, Richard H. Friend, and Florian Auras"
  - admin
  - Jeffrey Gorman
 author_notes:

@@ -1,5 +1,5 @@
 ---
-title: "An example DNA journal article"
+title: "Does the URL work?"
 authors:
 - admin
 - Robert Ford
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://pubs.acs.org/doi/full/10.1021/jacs.1c10241
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''

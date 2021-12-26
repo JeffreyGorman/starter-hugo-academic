@@ -2,17 +2,13 @@
 title: "Deoxyribonucleic Acid Encoded and Size-Defined π-Stacking of Perylene Diimides"
 date: 2021-12-22
 publishDate: 2021-12-22
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
+
 authors:
-- admin
-- Sarah E Orsborne
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-
+["Jeffrey Gorman", "Sarah E. Orsborne"]
 
 # doi: ""
 publication_types: ["2"]

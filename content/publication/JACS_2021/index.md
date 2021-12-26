@@ -1,5 +1,5 @@
 ---
-title: "Deoxyribonucleic Acid Encoded and Size-Defined π-Stacking of Perylene Diimides"
+title: "Deoxyribonucleic Acid Encoded and Size-Defined π-Stacking of Perylene Diimides""
 date: 2021-12-22
 publishDate: 2021-12-22
 
@@ -19,8 +19,8 @@ featured: true
 
 # Custom links (uncomment lines below)
  links:
- - name: Paper
-   url: https://pubs.acs.org/doi/full/10.1021/jacs.1c10241/
+ - name: "Paper""
+   url: "https://pubs.acs.org/doi/full/10.1021/jacs.1c10241/""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

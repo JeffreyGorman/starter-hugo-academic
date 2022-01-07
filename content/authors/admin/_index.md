@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After developing the synthetic methodology to conjugate molecular semiconductors onto DNA during his PhD, he has now pivoted to exploit these materials on DNA origami. Here the semiconductor-DNA chimeras he synthesizes are programmably assembled on a large DNA scaffold to template the assembly of semiconductors from the sub-nm to hundreds-of-nm lengthscales. By leveraging the exceptional self-assembly of DNA. Jeffrey aims to optimize and explore the development on intermolecular organic semiconductor coupling for photovoltaics, photochemistry, and quantum information science. 
+Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After developing the synthetic methodology to conjugate molecular semiconductors onto DNA during his PhD, he has now pivoted to exploit these materials on DNA origami. Here the semiconductor-DNA chimeras he synthesizes are programmed to assembled on a large DNA scaffold that templates the assembly of semiconductors from the sub-nm to hundreds-of-nm length-scales. By leveraging the exceptional self-assembly of DNA. Jeffrey aims to optimize and explore the development on intermolecular organic semiconductor coupling for photovoltaics, photochemistry, and quantum information science. 
 
-Jeffrey Gorman completed his PhD in the Optoelectronics Group at Cambridge under the supervision of Sir Prof. Richard Friend, where he worked on the synthesis and ultrafast photophysics of singlet fission and charge-transfer oligomers. He completed his undergraduate and masters in Chemsitry and Imperial College London, under the Lawrence Burrow Trust fellowship, and awarded the Dean’s list for top 5 ranked students in his final year. His Master thesis and year in industry (Merck KGaA) focused on device fabrication and polymer chemistry for organic solar cells.
+Jeffrey Gorman completed his PhD in the Optoelectronics Group at Cambridge under the supervision of Sir Prof. Richard Friend, where he worked on the synthesis and ultrafast spectroscopy of singlet fission and charge-transfer oligomers. He completed his undergraduate and MSci. in Chemistry at Imperial College London, under the Lawrence Burrow Trust fellowship, and was awarded the Dean’s list for top 5 ranked students in his final year. His Master thesis and year in industry (Merck KGaA) focused on device fabrication and polymer chemistry for organic solar cells.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

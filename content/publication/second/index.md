@@ -1,23 +1,46 @@
 ---
-title: "Did this change? Yes I think so if this is visible"
+title: "Microcavity-like Exciton-Polaritons Can Be the Primary Photoexcitation in Bare Organic Semiconductors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+- authors:
+- Raj Pandya
+- Richard Chen
+- Qifei Gu
+- Jooyoung Sung
+- Christoph Schnedermann
+- Oluwafemi S. Ojambati
+- Rohit Chikkaraddy
+- Jeffrey Gorman
+- Gianni Jacucci
+- Olimpia D. Onelli
+- Tom Willhammar
+- Duncan N. Johnstone
+- Sean M. Collins
+- Paul A. Midgley
+- Florian Auras
+- Tomi Baikie
+- Rahul Jayaprakash
+- Fabrice Mathevet
+- Richard Soucek
+- Matthew Du
+- Antonios M. Alvertis
+- Arjun Ashoka
+- Silvia Vignolini
+- David G. Lidzey
+- Jeremy J. Baumberg
+- Richard H. Friend
+- Thierry Barisien
+- Laurent Legrand
+- Alex W. Chin
+- Joel Yuen-Zhou
+- Semion K. Saikin
+- Philipp Kukura
+- Andrew J. Musser
+- Akshay Rao 
+date: "2021-11-21"
+doi: "10.1038/s41467-021-26617-w"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +52,10 @@ publication_types: ["2"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Strong-coupling between excitons and confined photonic modes can lead to the formation of new quasi-particles termed exciton-polaritons which can display a range of interesting properties such as super-fluidity, ultrafast transport and Bose-Einstein condensation. Strong-coupling typically occurs when an excitonic material is confided in a dielectric or plasmonic microcavity. Here, we show polaritons can form at room temperature in a range of chemically diverse, organic semiconductor thin films, despite the absence of an external cavity. We find evidence of strong light-matter coupling via angle-dependent peak splittings in the reflectivity spectra of the materials and emission from collective polariton states. We additionally show exciton-polaritons are the primary photoexcitation in these organic materials by directly imaging their ultrafast, ultralong (~270 nm) transport. These results open-up new fundamental physics and could enable a new generation of organic optoelectronic and light harvesting devices based on cavity-free exciton-polaritons
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Strong-coupling between excitons and confined photonic modes can lead to the formation of new quasi-particles termed exciton-polaritons which can display a range of interesting properties such as super-fluidity, ultrafast transport and Bose-Einstein condensationWe find evidence of strong light-matter coupling via angle-dependent peak splittings in the reflectivity spectra of the materials and emission from collective polariton states.
 
 tags: []
 
@@ -44,14 +67,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: 'https://www.nature.com/articles/s41467-021-26617-w'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

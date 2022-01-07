@@ -74,4 +74,4 @@ Jeffrey Gorman is a postdoctoral scholar in the Bathe BioNanoLab at MIT. After d
 
 Jeffrey Gorman completed his PhD in the Optoelectronics Group at Cambridge under the supervision of Sir Prof. Richard Friend, where he worked on the synthesis and ultrafast spectroscopy of singlet fission and charge-transfer oligomers. He completed his undergraduate and MSci. in Chemistry at Imperial College London, under the Lawrence Burrow Trust fellowship, and was awarded the Dean’s list for top 5 ranked students in his final year. His Master thesis and year in industry (Merck KGaA) focused on device fabrication and polymer chemistry for organic solar cells.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

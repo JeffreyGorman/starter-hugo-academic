@@ -4,7 +4,7 @@ title: "Microcavity-like Exciton-Polaritons Can Be the Primary Photoexcitation i
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-- authors:
+authors:
 - Raj Pandya
 - Richard Chen
 - Qifei Gu
@@ -61,11 +61,6 @@ tags: []
 
 # Display this page in the Featured widget?
 featured: false
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
 
 url_pdf: 'https://www.nature.com/articles/s41467-021-26617-w'
 

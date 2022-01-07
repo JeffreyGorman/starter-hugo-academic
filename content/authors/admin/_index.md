@@ -19,8 +19,8 @@ bio: Jeffrey Gorman's research focuses on the interface between DNA assembly and
 # Interests to show in About widget
 interests:
 - Exciton photophysics
-- DNA encoded libraries for materials and physical chemsitry
-- Solid phase unatural-oligonucleotide synthesis
+- DNA encoded libraries for materials and physical chemistry
+- Solid phase unnatural-oligonucleotide synthesis
 
 # Education to show in About widget
 education:
@@ -31,7 +31,7 @@ education:
   - course: PhD in Physics
     institution: University of Cambridge (Cavendish Laboratory, Optoelectronics Group)
     year: 2020
-  - course: MSci. Chemsitry with a Year in Industry
+  - course: MSci. Chemistry with a Year in Industry
     institution: Imperial College London (Merck KGaA)
     year: 2016
 

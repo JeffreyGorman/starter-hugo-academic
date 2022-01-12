@@ -21,8 +21,7 @@ authors:
 - Christoph J Brabec
 - James R Durrant
 - Iain McCulloch
-
-date: "2016-11-08
+date: "2016-11-08"
 doi: "10.1039/C6EE02598F"
 
 # Publication type.

@@ -9,7 +9,6 @@ authors:
 - Richard H. Friend
 - Akshay Rao
 - Nathaniel J. L. K. Davis
-
 date: "2019-01-24"
 doi: "10.1021/acs.jpcc.8b12061"
 
